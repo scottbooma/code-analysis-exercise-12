@@ -23,14 +23,14 @@ function (currentColor){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|   "green"    |  "yellow"      | 
+|   "red"    |   "green"     | 
+|   "blue"    |   'undefined'     | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program accepts inputs in the form of "green", "yellow", or "red" and will in turn produce an output that would be the next color a traffic light would go to if it was the color input. If given a color or value that is not "green", "yellow", or "red" it will produce an undefined value.</td>
   </tr>
 </table>
 
